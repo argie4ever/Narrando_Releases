@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/Narrando_Releases/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0_Oficial-emerald?style=for-the-badge" alt="Release Oficial"></a>
-  <a href="https://cafecito.app/TU_USUARIO_CAFECITO"><img src="https://img.shields.io/badge/Cafecito-Argentina_ARS-009ee3?style=for-the-badge&logo=coffee" alt="Donar en Cafecito"></a>
-  <a href="https://ko-fi.com/TU_USUARIO_KOFI"><img src="https://img.shields.io/badge/Ko--fi-International_USD-ff5e5b?style=for-the-badge&logo=ko-fi" alt="Support on Ko-fi"></a>
+  <a href="https://github.com/argie4ever/Narrando_Releases/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0_Oficial-emerald?style=for-the-badge" alt="Release Oficial"></a>
+  <a href="https://cafecito.app/arielledesmabecerra"><img src="https://img.shields.io/badge/Cafecito-Argentina_ARS-009ee3?style=for-the-badge&logo=coffee" alt="Donar en Cafecito"></a>
+  <a href="https://ko-fi.com/arielledesmabecerra"><img src="https://img.shields.io/badge/Ko--fi-International_USD-ff5e5b?style=for-the-badge&logo=ko-fi" alt="Support on Ko-fi"></a>
   <img src="https://img.shields.io/badge/Platform-macOS_%7C_Windows-lightgrey?style=for-the-badge" alt="Plataformas">
 </p>
 
@@ -20,8 +20,9 @@ Descarga la última versión estable oficial directamente sin intermediarios:
 
 | Sistema Operativo | Enlace de Descarga | Compatibilidad |
 | :--- | :--- | :--- |
-| **macOS** | [⬇️ Descargar `.dmg`](https://github.com/TU_USUARIO/Narrando_Releases/releases/latest/download/Narrando-1.0.0-macOS.dmg) | Apple Silicon (M1/M2/M3/M4) e Intel |
-| **Windows** | [⬇️ Descargar `.exe`](https://github.com/TU_USUARIO/Narrando_Releases/releases/latest/download/Narrando-1.0.0-Setup.exe) | Windows 10 / 11 (64 bits) |
+| **macOS** | [⬇️ Descargar `.dmg`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.0/Narrando_1.0.0_x64.dmg) | Apple Silicon (M1/M2/M3/M4) e Intel |
+| **Windows** | [⬇️ Descargar `.exe`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.0/Narrando_1.0.0_x64-setup.exe) | Windows 10 / 11 (64 bits) |
+| **Windows** | [⬇️ Descargar `.msi`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.0/Narrando_1.0.0_x64_en-US.msi) | Windows 10 / 11 (64 bits) |
 
 ---
 
@@ -30,10 +31,10 @@ Descarga la última versión estable oficial directamente sin intermediarios:
 Narrando es un software independiente y gratuito. Si la herramienta aporta valor a tu flujo de trabajo o a tu productora, puedes colaborar para sostener su desarrollo y mantenimiento:
 
 * 🇦🇷 **Argentina (Transferencia bancaria / Mercado Pago en ARS):**  
-  👉 **[Invitar un Cafecito en cafecito.app](https://cafecito.app/TU_USUARIO_CAFECITO)**
+  👉 **[Invitar un Cafecito](https://cafecito.app/arielledesmabecerra)**
 
 * 🌎 **Internacional (Tarjeta de crédito / Débito / PayPal en USD):**  
-  👉 **[Support on Ko-fi](https://ko-fi.com/TU_USUARIO_KOFI)**
+  👉 **[Support on Ko-fi](https://ko-fi.com/arielledesmabecerra)**
 
 ---
 
@@ -85,5 +86,5 @@ Narrando es un software independiente y gratuito. Si la herramienta aporta valor
 
 Los manuales de usuario oficiales completos en español e inglés se encuentran incluidos en los binarios de instalación y disponibles para consulta directa en el repositorio:
 
-- 🇪🇸 [Manual de Usuario en Español (Markdown)](./Manual_de_Usuario_Narrando.md)
-- 🇺🇸 [User Manual in English (Markdown)](./User_Manual_Narrando.md)
+- 🇪🇸 [Manual de Usuario en Español](./Manual%20de%20Usuario%20-%20Narrando%20v1.0.0.pdf)
+- 🇺🇸 [User Manual in English](./User%20Manual%20-%20Narrando%20v1.0.0.pdf)
