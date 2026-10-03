@@ -1,4 +1,4 @@
-# Narrando (v1.0.0)
+# Narrando
 
 <p align="center">
   <strong>Entorno Integral de Autoría, Diseño Narrativo y Preproducción Cinematográfica</strong><br>
