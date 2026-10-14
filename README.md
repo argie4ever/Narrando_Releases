@@ -20,9 +20,9 @@ Descarga la última versión estable oficial directamente sin intermediarios:
 
 | Sistema Operativo | Enlace de Descarga | Compatibilidad |
 | :--- | :--- | :--- |
-| **macOS** | [⬇️ Descargar `.dmg`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.0/Narrando_1.0.0_x64.dmg) | Apple Silicon (M1/M2/M3/M4) e Intel |
-| **Windows** | [⬇️ Descargar `.exe`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.0/Narrando_1.0.0_x64-setup.exe) | Windows 10 / 11 (64 bits) |
-| **Windows** | [⬇️ Descargar `.msi`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.0/Narrando_1.0.0_x64_en-US.msi) | Windows 10 / 11 (64 bits) |
+| **macOS** | [⬇️ Descargar `.dmg`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.1/Narrando_1.0.1_x64.dmg) | Apple Silicon (M1/M2/M3/M4) e Intel |
+| **Windows** | [⬇️ Descargar `.exe`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.1/Narrando_1.0.1_x64-setup.exe) | Windows 10 / 11 (64 bits) |
+| **Windows** | [⬇️ Descargar `.msi`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.1/Narrando_1.0.1_x64_en-US.msi) | Windows 10 / 11 (64 bits) |
 
 ---
 
