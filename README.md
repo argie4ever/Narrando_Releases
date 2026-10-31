@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/argie4ever/Narrando_Releases/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0_Oficial-emerald?style=for-the-badge" alt="Release Oficial"></a>
+  <a href="https://github.com/argie4ever/Narrando_Releases/releases/latest"><img src="https://img.shields.io/badge/Release-v1.1.0_Oficial-emerald?style=for-the-badge" alt="Release Oficial"></a>
   <a href="https://cafecito.app/arielledesmabecerra"><img src="https://img.shields.io/badge/Cafecito-Argentina_ARS-009ee3?style=for-the-badge&logo=coffee" alt="Donar en Cafecito"></a>
   <a href="https://ko-fi.com/arielledesmabecerra"><img src="https://img.shields.io/badge/Ko--fi-International_USD-ff5e5b?style=for-the-badge&logo=ko-fi" alt="Support on Ko-fi"></a>
   <img src="https://img.shields.io/badge/Platform-macOS_%7C_Windows-lightgrey?style=for-the-badge" alt="Plataformas">
@@ -20,9 +20,9 @@ Descarga la última versión estable oficial directamente sin intermediarios:
 
 | Sistema Operativo | Enlace de Descarga | Compatibilidad |
 | :--- | :--- | :--- |
-| **macOS** | [⬇️ Descargar `.dmg`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.1/Narrando_1.0.1_x64.dmg) | Apple Silicon (M1/M2/M3/M4) e Intel |
-| **Windows** | [⬇️ Descargar `.exe`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.1/Narrando_1.0.1_x64-setup.exe) | Windows 10 / 11 (64 bits) |
-| **Windows** | [⬇️ Descargar `.msi`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.0.1/Narrando_1.0.1_x64_en-US.msi) | Windows 10 / 11 (64 bits) |
+| **macOS** | [⬇️ Descargar `.dmg`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.1.0/Narrando_1.1.0_x64.dmg) | Apple Silicon (M1/M2/M3/M4) e Intel |
+| **Windows** | [⬇️ Descargar `.exe`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.1.0/Narrando_1.1.0_x64-setup.exe) | Windows 10 / 11 (64 bits) |
+| **Windows** | [⬇️ Descargar `.msi`](https://github.com/argie4ever/Narrando_Releases/releases/download/v1.1.0/Narrando_1.1.0_x64_en-US.msi) | Windows 10 / 11 (64 bits) |
 
 ---
 
