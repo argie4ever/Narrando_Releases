@@ -86,5 +86,5 @@ Narrando es un software independiente y gratuito. Si la herramienta aporta valor
 
 Los manuales de usuario oficiales completos en español e inglés se encuentran incluidos en los binarios de instalación y disponibles para consulta directa en el repositorio:
 
-- 🇪🇸 [Manual de Usuario en Español](./Manual%20de%20Usuario%20-%20Narrando%20v1.1.3.pdf)
-- 🇺🇸 [User Manual in English](./User%20Manual%20-%20Narrando%20v1.1.3.pdf)
+- 🇪🇸 [Manual de Usuario en Español](./Manual%20de%20Usuario%20-%20Narrando%20v1.0.0.pdf)
+- 🇺🇸 [User Manual in English](./User%20Manual%20-%20Narrando%20v1.0.0.pdf)
